@@ -1,0 +1,2 @@
+# Mahjong
+Japanese Mahjong
